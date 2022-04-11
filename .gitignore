@@ -29,3 +29,6 @@ venv.bak/
 # Jupyter Notebook
 
 .ipynb_checkpoints
+visualisation_exploration/etudiantes_universites_suisses_annees.ipynb
+manipuler_les_fichiers/fichier_csv_lire_et_ecrire.ipynb
+manipuler_les_fichiers/fichier_csv_lire_et_ecrire.ipynb
